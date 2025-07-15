@@ -66,7 +66,6 @@ converter.convert_markdown_to_docx("input.md", "output.docx")
 
 ```
 markdown_to_word/
-├── CLAUDE.md                    # Detailed documentation
 ├── README.md                    # This file
 ├── converter_demo.py            # Demo script
 ├── hybrid_converter.py          # Hybrid & advanced converters
@@ -89,7 +88,7 @@ This will test all converters with all test files and provide a detailed compari
 
 ## 📖 Documentation
 
-See [CLAUDE.md](CLAUDE.md) for detailed documentation including:
+For detailed documentation, see the comprehensive comments and examples in the source code files which include:
 - Complete API reference
 - Style template creation
 - Advanced configuration options

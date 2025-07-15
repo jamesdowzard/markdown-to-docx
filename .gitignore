@@ -47,3 +47,6 @@ outputs/*.docx
 # Temporary files
 *.tmp
 *.temp
+
+# Claude-related files
+CLAUDE.md
